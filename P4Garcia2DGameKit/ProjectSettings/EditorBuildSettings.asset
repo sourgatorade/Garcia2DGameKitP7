@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/P4Garcia2DGameKit.unity
     guid: ef071f0670e0ec947ae2f37ebdff69ed
+  - enabled: 1
+    path: Assets/GameSceneNew.unity
+    guid: ad4d6a861326ead40b5ff01471b08684
   m_configObjects: {}
